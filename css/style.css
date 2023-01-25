@@ -1,0 +1,99 @@
+.imagestyle
+{
+    border-radius: 50%;
+    box-shadow: 0px 4px 31px #0000000A;
+    border: 20px solid #FFFFFF;
+    margin-top: 72px;
+    margin-left: 90px;
+}
+
+body 
+{
+    width: 1560px;
+    height: 720px;
+    /* UI Properties */
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+}
+
+#main
+{
+    padding: 30px 30px; 
+}
+.companycontentdesign
+{
+    margin-top:19px;
+    letter-spacing: 0px;
+    font-size:40px;
+    margin-left:163px;
+}
+.imagelogodesign
+{
+    margin-left:164px;
+}
+.logintext
+{
+    margin-left:163px;
+    font-size:25px;
+    margin-top:32px;
+}
+.form-control
+{
+    width:429px!important;
+    height:49px;
+    margin-left:163px;
+    margin-top:23px;
+}
+.passworddesign
+{
+    width:429px!important;
+    margin-top:27px!important;
+    height:49px!important;
+}
+.buttondesign
+{
+    border-radius:23px;
+    margin-left:163px;
+    margin-top:30px;
+    width:138px;
+    height:45px;
+    background: #C8242F; 
+    color:#FFFFFF;
+    border:none;
+    font-size: 18px;
+    opacity:1;   
+}
+.forgotdesign
+{
+    color:#ADADAD;
+    font-size: 15px;
+    margin-top:43px;
+}
+.bottomformflex
+{
+    width:592px;
+    display: flex;  
+    justify-content: space-between;
+}
+.rowdesign
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Last_para_design
+{
+    font-size:15px;
+    color: #ADADAD;
+    margin-top:34px;
+    margin-left:163px;
+}
+.bottomspan{
+    color:#C8242F;
+
+}
+.topbar{
+    position: fixed;
+    margin-left: 291px;;
+  }
